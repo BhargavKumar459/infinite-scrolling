@@ -1,0 +1,33 @@
+.Container {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  /* background-color: #040E27; */
+  text-align: center;
+  justify-content: center;
+  margin: 2em auto;
+}
+
+.Quotes {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.Quote {
+  font-size: 20px;
+  color: white;
+  margin-bottom : 25px
+}
+
+h1{
+  margin: 30px;
+  color: white;
+  text-transform: uppercase;
+}
+
+p {
+  color: green;
+  margin-bottom: 30px;
+}
+
